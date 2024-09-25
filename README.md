@@ -14,23 +14,6 @@
   </a>
 </p>
 
-<h3 align="center">Hobbies:</h3>
-<div align="center">
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/guitar.png" alt="guitar" width="30" height="30"/> Playing guitar
-  </p>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/musical-notes.png" alt="music" width="30" height="30"/> Music
-  </p>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/joystick.png" alt="video-games" width="30" height="30"/> Video games
-  </p>
- 
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmatiasblacker&label=Profile%20views&color=orange&style=flat" alt="mblacker" /> </p>
-<p align="left"> <a href="https://github.com/matiasblacker"><img src="https://github-profile-trophy.vercel.app/?username=matiasblacker" alt="mblacker" /></a> </p>
-
 
 - 🔭 I’m currently working on [Mobile App]
 - 🌱 I’m currently learning **Kotlin** | **C#** | **Xamarin** | **Bash Scripting** | 
