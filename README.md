@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Mobile App]
 - 🌱 I’m currently learning **Kotlin** | **C#** | **Xamarin** | **Bash Scripting** | 
-- 📫 How to reach me **matias.perez.sd94link@gmail.com**
+- 📫 How to reach me **matias.perez.sd94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
