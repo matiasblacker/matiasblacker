@@ -10,13 +10,13 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,cs,php,js,react,bootstrap,bash,linux,vscode,git,postman,aws,mysql,sqlite,ubuntu,windows,html,css,sass&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,bash,linux,git,postman,aws,mysql,sqlite,ubuntu,windows,php,js,bootstrap,html,css&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 
-- 🔭 I’m currently working on [Mobile App]
-- 🌱 I’m currently learning **Kotlin** | **C#** | **Xamarin** | **Bash Scripting** | 
+- 🔭 I’m currently working on [deployment of microservices with spring cloud] ,[Mobile App] and [Desktop Apps]
+- 🌱 I’m currently improve in **Kotlin** | **Bash Scripting**
 - 📫 How to reach me **matias.perez.sd94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
